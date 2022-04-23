@@ -1,7 +1,7 @@
 # zshrc Shell and iterm2 Config
 
 ### .zshrc
-- Replace the .zshrc file from the repo with yout local
+- Replace the .zshrc file from the repo with your local
 
 ### iTerm2
 - Download iTerm2 https://iterm2.com
